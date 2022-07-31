@@ -1,0 +1,3 @@
+[submodule "external/avarice"]
+	path = external/avarice
+	url = git@github.com:SigmundurJohansen/Avarice.git
